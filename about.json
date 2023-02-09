@@ -12,7 +12,7 @@
     "serialize_topic_excerpts": true
   },
   "color_schemes": {
-    "air-light": {
+    "optilogic-light": {
       "primary": "0c0a5a",
       "secondary": "fff",
       "tertiary": "5766f2",
@@ -24,7 +24,7 @@
       "success": "44bd7e",
       "love": "f5787b"
     },
-    "air-dark": {
+    "optilogic-dark": {
       "primary": "0c0a5a",
       "secondary": "fff",
       "tertiary": "9a5cfd",
